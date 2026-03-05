@@ -2,8 +2,9 @@
 morning-brief-config.md
 *.local.md
 
-# Generated outputs
-*.html
+# Generated daily briefs and artifacts (not the landing page)
+morning-brief-*.html
+gather-brief-*.html
 morning-brief-artifacts/
 
 # OS
