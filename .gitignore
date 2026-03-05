@@ -1,0 +1,14 @@
+# Personal config — never commit this
+morning-brief-config.md
+*.local.md
+
+# Generated outputs
+*.html
+morning-brief-artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
